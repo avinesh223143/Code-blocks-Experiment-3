@@ -18,7 +18,7 @@ To write a Socket program to transfer data between Client and Server.
 7. Enter the IP address of the server on the client machine.
 8. Enter the data to be transferred and verify its size.
 
-## 💻 PROGRAM
+## 💻 PROGRAM 
 
 ### 🔸 SERVER
 
